@@ -1,7 +1,7 @@
 export default function Project(props) {
   const { title, description, image, link, skills } = props;
   const toolsComponent = skills.map((skill) => (
-    <span classNameName="tool">{skill}</span>
+    <span className="tool">{skill}</span>
   ));
   return (
     <a className="item-link" target="_blank" href={link}>
