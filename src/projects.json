@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Sudoku Solver",
-    "description": "Full-stack Sudoku Solver built with Node.js, Express, and vanilla JavaScript. Features a REST API for puzzle validation and solving using a backtracking algorithm.",
+    "description": "Full-stack Sudoku Solver built with Node.js, Express, and React. Features a REST API for puzzle validation and solving using a backtracking algorithm.",
     "image": "/sudoku.png",
     "link": "https://github.com/zaidqtaish/sudoku_solver",
     "skills": ["Node.js", "Express", "jQuery"]
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "title": "Url Shortener",
-    "description": "Fullstack project showcasing my proficiency in Express.js and MongoDB. It efficiently shortens URLs for easier sharing and management. Built with a responsive design to work across all devices.",
+    "description": "Fullstack project built with Express.js and MongoDB. It efficiently shortens URLs for easier sharing and management. Built with a responsive design to work across all devices.",
     "image": "/url-shortener.png",
     "link": "https://github.com/zaidqtaish/url-shortener",
     "skills": ["Node.js", "Express", "MongoDB", "jQuery"]
