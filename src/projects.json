@@ -11,9 +11,9 @@
     "id": 2,
     "title": "Url Shortener",
     "description": "Fullstack project showcasing my proficiency in Express.js and MongoDB. It efficiently shortens URLs for easier sharing and management. Built with a responsive design to work across all devices.",
-    "image": "https://i.imgur.com/qah8kcE.png",
+    "image": "/url-shortener.png",
     "link": "https://github.com/zaidqtaish/url-shortener",
-    "skills": ["Node.js", "Express.js", "MongoDB", "jQuery"]
+    "skills": ["Node.js", "Express", "MongoDB", "jQuery"]
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "description": "React app that allows users to input stock tickers and generate predictions based on historical stock data. It fetches stock data from the Polygon API, processes it, and uses the Mistral AI API to generate a witty, confident stock prediction.",
     "image": "/stock.png",
     "link": "https://zaidqtaish.github.io/stock-prediction",
-    "skills": ["React.js", "Polygon API", "Mistral API"]
+    "skills": ["React", "Polygon API", "Mistral API"]
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "description": "A React word-guessing game with a programming theme. Includes game logic, keyboard input, and confetti win effects. Tracks wrong guesses by striking out programming languages.",
     "image": "/hangman.png",
     "link": "https://zaidqtaish.github.io/hangman",
-    "skills": ["React.js"]
+    "skills": ["React"]
   },
   {
     "id": 6,
@@ -45,10 +45,18 @@
     "description": "Frontend project showcasing my proficiency in React.js. The user enters ingredients for the Claude API and receives back a recipe with those ingredients.",
     "image": "/chefclaude.png",
     "link": "https://zaidqtaish.github.io/chef-claude",
-    "skills": ["React.js", "Mistral API"]
+    "skills": ["React", "Mistral API"]
+  },
+    {
+    "id": 7,
+    "title": "Netflix Clone",
+    "description": "A React Netflix landing page clone with hero banner, feature highlights, and responsive design. Uses reusable components for sections and call-to-action buttons.",
+    "image": "/netflix.png",
+    "link": "https://zaidqtaish.github.io/netflix-clone/",
+    "skills": ["React", "Bootstrap"]
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Random Quote Machine",
     "description": "A full-stack quote generator using a custom PHP API to serve quotes locally. Built with HTML, CSS, Bootstrap, and jQuery. Users can view and share random quotes on Twitter in a responsive interface.",
     "image": "https://i.imgur.com/8Y67AiI.png",
@@ -56,7 +64,7 @@
     "skills": ["PHP", "HTML/CSS", "jQuery", "Bootstrap"]
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "Candle Shop Landing page",
     "description": "A simple landing page for an imaginary collection of handcrafted candles.",
     "image": "/candlecove2.png",

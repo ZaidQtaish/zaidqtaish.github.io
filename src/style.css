@@ -102,7 +102,7 @@ a {
 #projects {
     display: flex;
     flex-direction: column;
-    width: 600px;
+    width: 37rem;
     margin-bottom: 130px;
     border-bottom: solid 1px #9f9f9f11;
     padding-bottom: 70px;
@@ -154,12 +154,13 @@ p {
 
 .item-link:hover .title {
     color: rgba(94, 234, 212, 1);
-    transition: 100ms;
+    transition: 200ms;
 }
 
 .item-link:hover i {
     margin: 0 0 0 11px;
     color: rgba(94, 234, 212, 1);
+    transition: 200ms;
 }
 
 .exp-item p {
