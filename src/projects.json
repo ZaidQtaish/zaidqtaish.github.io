@@ -17,6 +17,14 @@
   },
   {
     "id": 3,
+    "title": "Point of Sale (POS) System – CompuTech",
+    "description": "A desktop-based Point of Sale (POS) system built with VB.NET and Microsoft Access. Includes user management, item and customer modules, and an order processing system with receipt generation.",
+    "image": "/computech.png",
+    "link": "https://github.com/ZaidQtaish/CompuTech",
+    "skills": ["VB.NET", "Microsoft Access"]
+  },
+  {
+    "id": 4,
     "title": "Url Shortener",
     "description": "Fullstack project built with Express.js and MongoDB. It efficiently shortens URLs for easier sharing and management. Built with a responsive design to work across all devices.",
     "image": "/url-shortener.png",
@@ -24,20 +32,12 @@
     "skills": ["Node.js", "Express", "MongoDB", "jQuery"]
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Dodgy Dave's Stock Prediction",
     "description": "React app that allows users to input stock tickers and generate predictions based on historical stock data. It fetches stock data from the Polygon API, processes it, and uses the Mistral AI API to generate a witty, confident stock prediction.",
     "image": "/stock.png",
     "link": "https://zaidqtaish.github.io/stock-prediction",
     "skills": ["React", "Polygon API", "Mistral API"]
-  },
-  {
-    "id": 5,
-    "title": "Point of Sale (POS) System – CompuTech",
-    "description": "A desktop-based Point of Sale (POS) system built with VB.NET and Microsoft Access. Includes user management, item and customer modules, and an order processing system with receipt generation.",
-    "image": "/computech.png",
-    "link": "https://github.com/ZaidQtaish/CompuTech",
-    "skills": ["VB.NET", "Microsoft Access"]
   },
   {
     "id": 6,
