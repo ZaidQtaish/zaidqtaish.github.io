@@ -4,8 +4,13 @@
     }
 }
 
+html {
+  background: radial-gradient(ellipse at bottom, #00060d 0%, #000610 100%);
+}
+
 body {
-    background-color: rgba(15, 23, 42, 1);
+    margin: 0;
+    padding: 0;
     font-family: 'Inter', Helvetica, Arial, sans-serif;
     font-size: 16px;
     color: #E2E8F0;
@@ -225,7 +230,7 @@ fieldset {
   position: absolute;
   width: 20vw;
   height: 40vh;
-  background: radial-gradient(circle, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0) 70%);
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.04) 0%, rgba(255, 255, 255, 0) 70%);
   border-radius: 50%;
   pointer-events: none;
   z-index: 9999;
@@ -359,4 +364,13 @@ fieldset {
     .sub {
         font-size: 14px;
     }
+}
+
+/* Hide scrollbar for all browsers */
+html {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE 10+ */
+}
+html::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Edge */
 }
