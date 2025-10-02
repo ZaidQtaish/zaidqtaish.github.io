@@ -5,7 +5,7 @@
     "description": "Full-stack Sudoku Solver built with Node.js, Express, and React. Features a REST API for puzzle validation and solving using a backtracking algorithm.",
     "image": "/sudoku.png",
     "link": "https://github.com/zaidqtaish/sudoku_solver",
-    "skills": ["Node.js", "Express", "jQuery"]
+    "skills": ["Node.js", "Express", "React"]
   },
   {
     "id": 2,
