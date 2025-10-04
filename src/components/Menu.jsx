@@ -29,8 +29,8 @@ export default function Menu() {
         <a href="https://www.linkedin.com/in/zaid-qtaish/" target="_blank">
           <i className="fa-brands fa-linkedin fa-2xl"></i>
         </a>
-        <a href="https://codepen.io/xFxdedFade" target="_blank">
-          <i className="fa-brands fa-codepen fa-2xl"></i>
+        <a href="https://leetcode.com/u/ZaidQtaish" target="_blank">
+          <i className="fa-solid fa-code fa-xl"></i>
         </a>
         <a href="mailto: enderzaide@gmail.com" target="_blank">
           <i className="fa-solid fa-envelope fa-2xl"></i>
