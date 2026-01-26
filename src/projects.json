@@ -1,82 +1,143 @@
 [
   {
     "id": 1,
+    "title": "UniVault JU",
+    "description": "The central knowledge hub for JU Aqaba students. Sharing past papers, summaries, and academic tools to empower the student community. ",
+    "image": "/UJ.svg",
+    "link": "https://github.com/IEEE-JU-AQ/univault-ju",
+    "inProgress": true,
+    "skills": [
+      "Next.js",
+      "React",
+      "Tailwind",
+      "Supabase"
+    ]
+  },
+  {
+    "id": 2,
     "title": "Sudoku Solver",
     "description": "Full-stack Sudoku Solver built with Node.js, Express, and React. Features a REST API for puzzle validation and solving using a backtracking algorithm.",
     "image": "/sudoku.png",
     "link": "https://github.com/zaidqtaish/sudoku_solver",
-    "skills": ["Node.js", "Express", "React"]
+    "inProgress": false,
+    "skills": [
+      "Node.js",
+      "Express",
+      "React"
+    ]
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Chat Room",
     "description": "A real-time chat application where users pick a username and start chatting instantly. Built using Node.js and Socket.IO for bidirectional communication.",
     "image": "/chat.png",
     "link": "https://github.com/zaidqtaish/chatroom",
-    "skills": ["Node.js", "Express", "Socket.IO", "Bootstrap"]
+    "inProgress": false,
+    "skills": [
+      "Node.js",
+      "Express",
+      "Socket.IO",
+      "Bootstrap"
+    ]
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Point of Sale (POS) System – CompuTech",
     "description": "A desktop-based Point of Sale (POS) system built with VB.NET and Microsoft Access. Includes user management, item and customer modules, and an order processing system with receipt generation.",
     "image": "/computech.png",
     "link": "https://github.com/ZaidQtaish/CompuTech",
-    "skills": ["VB.NET", "Microsoft Access"]
+    "inProgress": false,
+    "skills": [
+      "VB.NET",
+      "Microsoft Access"
+    ]
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Url Shortener",
     "description": "Fullstack project built with Express.js and MongoDB. It efficiently shortens URLs for easier sharing and management. Built with a responsive design to work across all devices.",
     "image": "/url-shortener.png",
     "link": "https://github.com/zaidqtaish/url-shortener",
-    "skills": ["Node.js", "Express", "MongoDB", "jQuery"]
+    "inProgress": false,
+    "skills": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "jQuery"
+    ]
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "Dodgy Dave's Stock Prediction",
     "description": "React app that allows users to input stock tickers and generate predictions based on historical stock data. It fetches stock data from the Polygon API, processes it, and uses the Mistral AI API to generate a witty, confident stock prediction.",
     "image": "/stock.png",
     "link": "https://zaidqtaish.github.io/stock-prediction",
-    "skills": ["React", "Polygon API", "Mistral API"]
+    "inProgress": false,
+    "skills": [
+      "React",
+      "Polygon API",
+      "Mistral API"
+    ]
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Assembly: Endgame",
     "description": "A React word-guessing game with a programming theme. Includes game logic, keyboard input, and confetti win effects. Tracks wrong guesses by striking out programming languages.",
     "image": "/hangman.png",
     "link": "https://zaidqtaish.github.io/hangman",
-    "skills": ["React"]
+    "inProgress": false,
+    "skills": [
+      "React"
+    ]
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Chef Claude",
     "description": "Frontend project showcasing my proficiency in React.js. The user enters ingredients for the Claude API and receives back a recipe with those ingredients.",
     "image": "/chefclaude.png",
     "link": "https://zaidqtaish.github.io/chef-claude",
-    "skills": ["React", "Mistral API"]
+    "inProgress": false,
+    "skills": [
+      "React",
+      "Mistral API"
+    ]
   },
-    {
-    "id": 8,
+  {
+    "id": 9,
     "title": "Netflix Clone",
     "description": "A React Netflix landing page clone with hero banner, feature highlights, and responsive design. Uses reusable components for sections and call-to-action buttons.",
     "image": "/netflix.png",
     "link": "https://zaidqtaish.github.io/netflix-clone/",
-    "skills": ["React", "Bootstrap"]
+    "inProgress": false,
+    "skills": [
+      "React",
+      "Bootstrap"
+    ]
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "Random Quote Machine",
     "description": "A full-stack quote generator using a custom PHP API to serve quotes locally. Built with HTML, CSS, Bootstrap, and jQuery. Users can view and share random quotes on Twitter in a responsive interface.",
     "image": "https://i.imgur.com/8Y67AiI.png",
     "link": "https://github.com/ZaidQtaish/random_quote_machine/",
-    "skills": ["PHP", "HTML/CSS", "jQuery", "Bootstrap"]
+    "inProgress": false,
+    "skills": [
+      "PHP",
+      "HTML/CSS",
+      "jQuery",
+      "Bootstrap"
+    ]
   },
   {
-    "id": 10,
+    "id": 11,
     "title": "Candle Shop Landing page",
     "description": "A simple landing page for an imaginary collection of handcrafted candles.",
     "image": "/candlecove2.png",
     "link": "https://zaidqtaish.github.io/candle_cove/",
-    "skills": ["HTML", "CSS"]
+    "inProgress": false,
+    "skills": [
+      "HTML",
+      "CSS"
+    ]
   }
 ]

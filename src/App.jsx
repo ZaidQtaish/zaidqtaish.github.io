@@ -4,6 +4,7 @@ import Experience from "./components/Experience.jsx";
 import Project from "./components/Project.jsx";
 import Education from "./components/Education.jsx";
 import projectsList from "./projects.json";
+
 function App() {
   useGlowEffect();
   const projectComponents = projectsList.map((project) => (
@@ -14,8 +15,10 @@ function App() {
       image={project.image}
       link={project.link}
       skills={project.skills}
+      inProgress={project.inProgress}
     />
   ));
+
   return (
     <>
       <div id="stars"></div>
