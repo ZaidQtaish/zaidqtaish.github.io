@@ -107,16 +107,11 @@ a {
 #projects {
     display: flex;
     flex-direction: column;
+    gap: 70px;
     width: 38rem;
     margin-bottom: 130px;
     border-bottom: solid 1px #9f9f9f11;
     padding-bottom: 70px;
-}
-
-#projects {
-    display: flex;
-    flex-direction: column;
-    gap: 70px;
 }
 
 #education {

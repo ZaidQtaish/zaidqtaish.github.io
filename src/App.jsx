@@ -1,14 +1,14 @@
 import useGlowEffect from "./useGlowEffect.js";
 import Menu from "./components/Menu.jsx";
 import Experience from "./components/Experience.jsx";
-import Project from "./components/Project.jsx";
+import ProjectCard from "./components/ProjectCard.jsx";
 import Education from "./components/Education.jsx";
-import projectsList from "./projects.json";
+import projectsList from "./data/projects.json";
 
 function App() {
   useGlowEffect();
   const projectComponents = projectsList.map((project) => (
-    <Project
+    <ProjectCard
       key={project.id}
       title={project.title}
       description={project.description}

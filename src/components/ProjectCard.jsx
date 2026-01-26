@@ -1,4 +1,4 @@
-export default function Project(props) {
+export default function ProjectCard(props) {
   const { title, description, image, link, skills } = props;
   const toolsComponent = skills.map((skill) => (
     <span className="tool">{skill}</span>

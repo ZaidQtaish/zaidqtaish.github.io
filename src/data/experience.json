@@ -1,0 +1,32 @@
+[
+        {
+        "id": 1,
+        "company": {
+            "name": "JOSA",
+            "link": "https://josa.ngo/"
+        },
+        "role": "Open Source Contributor",
+        "duration": "12/2025 - Present",
+        "description": "Member of Josa's Open Lab, i contribute to community projects and promote open-source development. Hosted a hands-on Git and GitHub workshop to teach version control principles. Currently building UniVault, a central resource archive, to bring open-source logic to university infrastructure.",
+        "skills": [
+            "Open Source",
+            "Git/GitHub",
+            "Community Leadership"
+        ]
+    },
+        {
+        "id": 2,
+        "company": {
+            "name": "Jasara",
+            "link": "https://jasaratech.com/"
+        },
+        "role": "Software Developer Intern",
+        "duration": "01/2024 - 02/2024",
+        "description": "Developed and implemented Stockpile,a comprehensive inventory management system tailored for Amazon sellers, Responsible for the design and development within a one-month timeframe, Designed and implemented the event sourcing architecture pattern to track changes to inventory over time.",
+        "skills": [
+            "TypeScript",
+            "Vue",
+            "Vuetify"
+        ]
+    }
+]
