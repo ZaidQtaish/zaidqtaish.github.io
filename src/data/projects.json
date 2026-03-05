@@ -66,8 +66,21 @@
       "jQuery"
     ]
   },
-  {
+    {
     "id": 6,
+    "title": "PrintForge",
+    "description": "A 3D printing file marketplace UI built with Next.js and Tailwind CSS. Users can browse, search, and filter 3D printing files in a responsive design.",
+    "image": "/printforge.png",
+    "link": "https://printforge-zaid.vercel.app/",
+    "inProgress": false,
+    "skills": [
+      "Next.js",
+      "React",
+      "Tailwind"
+    ]
+  },
+  {
+    "id": 7,
     "title": "Dodgy Dave's Stock Prediction",
     "description": "React app that allows users to input stock tickers and generate predictions based on historical stock data. It fetches stock data from the Polygon API, processes it, and uses the Mistral AI API to generate a witty, confident stock prediction.",
     "image": "/stock.png",
@@ -80,7 +93,7 @@
     ]
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Assembly: Endgame",
     "description": "A React word-guessing game with a programming theme. Includes game logic, keyboard input, and confetti win effects. Tracks wrong guesses by striking out programming languages.",
     "image": "/hangman.png",
@@ -91,7 +104,7 @@
     ]
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "Chef Claude",
     "description": "Frontend project showcasing my proficiency in React.js. The user enters ingredients for the Claude API and receives back a recipe with those ingredients.",
     "image": "/chefclaude.png",
@@ -103,7 +116,7 @@
     ]
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "Netflix Clone",
     "description": "A React Netflix landing page clone with hero banner, feature highlights, and responsive design. Uses reusable components for sections and call-to-action buttons.",
     "image": "/netflix.png",
@@ -115,7 +128,7 @@
     ]
   },
   {
-    "id": 10,
+    "id": 11,
     "title": "Random Quote Machine",
     "description": "A full-stack quote generator using a custom PHP API to serve quotes locally. Built with HTML, CSS, Bootstrap, and jQuery. Users can view and share random quotes on Twitter in a responsive interface.",
     "image": "https://i.imgur.com/8Y67AiI.png",
@@ -126,18 +139,6 @@
       "HTML/CSS",
       "jQuery",
       "Bootstrap"
-    ]
-  },
-  {
-    "id": 11,
-    "title": "Candle Shop Landing page",
-    "description": "A simple landing page for an imaginary collection of handcrafted candles.",
-    "image": "/candlecove2.png",
-    "link": "https://zaidqtaish.github.io/candle_cove/",
-    "inProgress": false,
-    "skills": [
-      "HTML",
-      "CSS"
     ]
   }
 ]
