@@ -126,19 +126,5 @@
       "React",
       "Bootstrap"
     ]
-  },
-  {
-    "id": 11,
-    "title": "Random Quote Machine",
-    "description": "A full-stack quote generator using a custom PHP API to serve quotes locally. Built with HTML, CSS, Bootstrap, and jQuery. Users can view and share random quotes on Twitter in a responsive interface.",
-    "image": "https://i.imgur.com/8Y67AiI.png",
-    "link": "https://github.com/ZaidQtaish/random_quote_machine/",
-    "inProgress": false,
-    "skills": [
-      "PHP",
-      "HTML/CSS",
-      "jQuery",
-      "Bootstrap"
-    ]
   }
 ]
