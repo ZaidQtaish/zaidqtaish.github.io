@@ -3,7 +3,7 @@ export default function Education() {
     <section id="education">
       <a className="item-link" target="_blank" href="https://ju.edu.jo/Home.aspx">
         <fieldset className="edu-item">
-          <legend className="date sub">2022 - Present</legend>
+          <legend className="date sub">2022 - 2026</legend>
           <div className="edu-info">
             <h2 className="title">
               Bachelor of Computer Information Systems
