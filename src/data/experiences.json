@@ -1,6 +1,20 @@
 [
-        {
+    {
         "id": 1,
+        "company": {
+            "name": "JOSA",
+            "link": "https://josa.ngo/"
+        },
+        "role": "Community Officer",
+        "duration": "08/2026 - Present",
+        "description": "Built technical Communities of Practice and ran hands-on bootcamps focused on open-source development and engineering workflows. Organized hackathons, annual convenings, and student-led initiatives to get developers shipping code and collaborating on open-source projects.",
+        "skills": [
+            "Program Management",
+            "Community Leadership"
+        ]
+    },
+    {
+        "id": 2,
         "company": {
             "name": "JOSA",
             "link": "https://josa.ngo/"
@@ -14,8 +28,8 @@
             "Community Leadership"
         ]
     },
-        {
-        "id": 2,
+    {
+        "id": 3,
         "company": {
             "name": "Jasara",
             "link": "https://jasaratech.com/"
